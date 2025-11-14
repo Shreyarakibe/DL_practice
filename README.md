@@ -47,7 +47,7 @@ This repository includes foundational to advanced deep learning models such as *
 
 ---
 
-### **5️Autoencoder.ipynb — Autoencoder for Dimensionality Reduction**
+### **5 Autoencoder.ipynb — Autoencoder for Dimensionality Reduction**
 
 * Encoder–decoder architecture
 * Latent space representation
@@ -56,7 +56,7 @@ This repository includes foundational to advanced deep learning models such as *
 
 ---
 
-### **6️CBOW.ipynb — Word Embeddings (NLP)**
+### **6 CBOW.ipynb — Word Embeddings (NLP)**
 
 * Continuous Bag-of-Words implementation
 * Creating word vectors
